@@ -1,0 +1,10 @@
+//############# Graph-3
+//4x4 matrix or graph
+4
+// matrix path with g(n)
+A B 8
+D B 1
+A D 2
+C A 7
+//start vertex B and goal is C
+B C

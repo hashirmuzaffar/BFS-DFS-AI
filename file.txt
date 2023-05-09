@@ -1,0 +1,17 @@
+//############# Graph-1
+//8x8 matrix or Graph
+8
+// matrix path with g(n)
+A B 3
+A H 4
+B C 4
+B H 5
+C D 8
+C G 3
+D E 2
+D F 3
+D G 8
+G F 4
+G H 2
+//start vertex A and goal is E
+A E
